@@ -14,6 +14,7 @@ Contents of this repository are as follows and in this order
 │   ├── 007_Feature_engineering.ipynb
 │   ├── 008_Model_data_preparation.ipynb
 │   └── 009_Modelling_Dtrees.ipynb
+│   └── Report.ipynb
 └── notebooks_pdf
     ├── 000_Understanding_Problem.pdf ...
 ```
@@ -22,3 +23,4 @@ Contents of this repository are as follows and in this order
    - this is done for the ease of viewing of the assignment
 1. Each notebook has filename as per the task involved in development
 1. Additionally each notebook has Aim written at the top for more clarity
+2. `Report.pdf` is the summary of all the steps taken
